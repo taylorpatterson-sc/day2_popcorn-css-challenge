@@ -3,3 +3,27 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+body {
+    background: #D4A76A;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2.5em; /* Adjust size as needed */
+    font-weight: bold;
+    color: #553100; /* Text color */
+    text-align: left; /* Text alignment */
+    margin-bottom: 15px; /* Spacing below the header */
+    font-family: 'Arial', sans-serif; /* Font family */
+    background-color: #FFDBAA; /* Light gray background */
+    padding: 0px; /* Add padding */
+    margin: 0; /* Remove default margin */
+    width: 100%; /* Full width */
+    text-align: left; /* Center the text if needed */
+    padding-left: 40px; /* Add left padding */
+    padding-bottom: 50px; /* Add bottom padding */
+    padding-top: 20px; /* Add bottom padding */
+    border-bottom: 1px solid black; /* Add a bottom border */
+  }
